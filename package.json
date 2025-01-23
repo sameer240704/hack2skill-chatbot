@@ -16,7 +16,7 @@
     "framer-motion": "^12.0.1",
     "lucide-react": "^0.473.0",
     "next": "15.1.5",
-    "openai": "^4.79.1",
+    "openai": "^4.80.0",
     "react": "^19.0.0",
     "react-chatbot-kit": "^2.2.2",
     "react-dom": "^19.0.0",
