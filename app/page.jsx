@@ -61,6 +61,13 @@ export default function Home() {
         loading={loading}
         setLoading={setLoading}
       />
+
+      <div className="absolute bottom-1 max-md:hidden text-slate-500 tracking-wide">
+        <h1>
+          jarvis.ai may contain errors. We recommend checking important
+          information
+        </h1>
+      </div>
     </div>
   );
 }

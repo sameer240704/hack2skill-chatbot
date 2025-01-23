@@ -11,7 +11,7 @@ export const ChatInterface = ({ messages }) => {
             key={index}
             className={`p-3 rounded-lg ${
               msg.sender === "user"
-                ? "bg-blue-500 self-end text-white"
+                ? "bg-slate-500 self-end text-white"
                 : "bg-gray-700 self-start text-white"
             }`}
           >
